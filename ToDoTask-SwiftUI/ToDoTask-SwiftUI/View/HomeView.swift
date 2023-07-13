@@ -144,6 +144,18 @@ struct HomeView: View {
                         RoundedRectangle(cornerRadius: 5,style: .continuous)
                             .fill(.white.opacity(0.8))
                     }
+                if task.isCompleted {
+                    Text("归档")
+                        .font(.caption2)
+                        .padding(.vertical, 3)
+                        .padding(.horizontal, 5)
+                        .foregroundColor(Color(task.color ?? "Grey"))
+                        .background {
+                            RoundedRectangle(cornerRadius: 5,style: .continuous)
+                                .fill(.white.opacity(0.8))
+                        }
+                }
+                
                 Spacer()
                 
                 Image(task.iconName ?? "fun_2")
