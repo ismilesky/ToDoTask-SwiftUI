@@ -13,6 +13,4 @@ ToDoTaskApp, 支持简单的增删改功能，选取不同的Icon进行标记�
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/12742733/253158938-1d04e415-142a-4496-b458-f5b8a36dd1cf.png" width="200"/>
 </p>
 
-<p align="left">
 ![1](https://github.com/ismilesky/ToDoTask-SwiftUI/assets/12742733/71a2e2b1-80ec-4497-881f-8ffc3021f8ac)
-</p>
