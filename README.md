@@ -4,7 +4,7 @@ CoreData数据持久化框架搭建ToDo待办事项App
 
 # 简介
 
-ToDoTaskApp, 支持简单的增删改功能， 如下
+ToDoTaskApp, 支持简单的增删改功能，选取不同的Icon进行标记📌。 如下:
 
 <p align="left">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/12742733/253158906-e4950ae6-c08f-4c00-8290-2410b2765384.png" width="200"/>
@@ -13,4 +13,6 @@ ToDoTaskApp, 支持简单的增删改功能， 如下
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/12742733/253158938-1d04e415-142a-4496-b458-f5b8a36dd1cf.png" width="200"/>
 </p>
 
+<p align="left">
 ![1](https://github.com/ismilesky/ToDoTask-SwiftUI/assets/12742733/71a2e2b1-80ec-4497-881f-8ffc3021f8ac)
+</p>
